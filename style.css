@@ -210,7 +210,7 @@ h1 {
 	text-transform: capitalize;
 	margin-top: 1rem;
 }
-a, b{
+a, strong{
 	color: #FF8100;
 }
 .container > p {
